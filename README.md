@@ -25,4 +25,4 @@ Ce projet est sous la License MIT
 
 ## 📬 Contact
 
-Pour toute question ou suggestion, veuillez contacter Hugo76_macha.
+Pour toute question ou suggestion, veuillez contacter ethical_exe ( zochi ).
