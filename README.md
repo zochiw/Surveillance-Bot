@@ -1,5 +1,5 @@
 # Bot de Surveillance de Statut
-#CODER PAR HUGO76_MACHA
+# CODER PAR HUGO76_MACHA
 ## 📜 Utilisation
 
 ### Commandes
