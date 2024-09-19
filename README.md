@@ -1,5 +1,5 @@
 # Bot de Surveillance de Statut
-
+#CODER PAR HUGO76_MACHA
 ## 📜 Utilisation
 
 ### Commandes
@@ -25,4 +25,4 @@ Ce projet est sous la License MIT
 
 ## 📬 Contact
 
-Pour toute question ou suggestion, veuillez contacter ethical_exe ( zochi ).
+Pour toute question ou suggestion, veuillez contacter hugo.
