@@ -25,4 +25,4 @@ Ce projet est sous la License MIT
 
 ## 📬 Contact
 
-Pour toute question ou suggestion, veuillez contacter hugo.
+Pour toute question ou suggestion, veuillez contacter [hugo76_macha](https://github.com/Hugo76macha)
